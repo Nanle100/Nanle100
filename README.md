@@ -5,6 +5,7 @@
 - 📫 How to reach me :
 - (1)Gmail: nanlenathaniel100@gmail.com
 - (2)linkedin: Nathaniel Nanle
+  https://www.linkedin.com/in/nathaniel-nanle-077b88312/
 - (3) X: @NanleNatha92210
  I am into teamWork/collaboration and solving problems
   

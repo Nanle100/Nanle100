@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nanle Nathaniel
 - 👀 I’m interested in everything web3 related
-- 🌱 I’m currently learning web3 development
+- 🌱 I’m a smart contract dev
 - 💞️ I’m looking to collaborate on web3 projects
 - 📫 How to reach me :
 - (1)Gmail: nanlenathaniel100@gmail.com

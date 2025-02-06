@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **the ethereum virtual machines(EVMs)**
 
-- 🌱 I’m currently learning **Reth Client**
+- 🌱 I’m currently learning **Ethereum execution layer(Reth client) and the consensus layer**
 
 - 👯 I’m looking to collaborate on **web3 protocol related projects**
 
